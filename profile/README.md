@@ -1,7 +1,7 @@
 # Naventis Group
 
-Naventis Group is a group of specialised HR companies that work as one partner for employers, covering social security, payroll, absence management, reintegration and data integrations. Each company keeps its own name and expertise, while the group connects them through shared data and technology.
+One name for the full breadth of payroll, HR and social security. We've got your back.
 
-This organisation holds no code. The group's software is developed and maintained in [VCSWBV](https://github.com/VCSWBV).
+Our labels each keep their own name and strength: Pay-Check, HR Navigator, Kijk op Verzuim, VCSW and Datahub.
 
-Learn more about the group at [naventisgroup.com](https://naventisgroup.com).
+Our software is built at [github.com/VCSWBV](https://github.com/VCSWBV). More at [naventisgroup.com](https://naventisgroup.com).
